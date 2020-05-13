@@ -1,0 +1,8 @@
+C:\Users\marri\OneDrive\Escritorio\examen\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\marri\OneDrive\Escritorio\examen\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\marri\OneDrive\Escritorio\examen\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\marri\OneDrive\Escritorio\examen\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+C:\Users\marri\OneDrive\Escritorio\examen\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\marri\OneDrive\Escritorio\examen\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\marri\OneDrive\Escritorio\examen\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\marri\OneDrive\Escritorio\examen\Datos\obj\Debug\netstandard2.0\Datos.pdb

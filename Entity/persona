@@ -1,0 +1,48 @@
+﻿namespace Entity
+
+{
+
+public class Persona
+
+{
+
+public string Identificacion { get; set; }
+
+public string Nombre { get; set; }
+
+public string apellido { get; set; }
+
+public string Sexo { get; set; }
+
+public string edad{ get; set; }
+
+public string departamento { get; set; 
+
+public string ciudad { get; set;
+
+public string examen { get; set; }
+
+public void Calcularexamen()
+
+{
+
+if (Sexo.Equals("F") || Sexo.Equals("M"))
+
+{
+
+examen=(220 - Edad) / 10;
+
+}
+
+else
+
+{
+examen=(210 - Edad) / 10;
+
+}
+
+}
+
+}
+
+}

@@ -1,0 +1,8 @@
+C:\Users\marri\OneDrive\Escritorio\examen\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\marri\OneDrive\Escritorio\examen\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\marri\OneDrive\Escritorio\examen\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\marri\OneDrive\Escritorio\examen\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\marri\OneDrive\Escritorio\examen\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\marri\OneDrive\Escritorio\examen\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\marri\OneDrive\Escritorio\examen\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\marri\OneDrive\Escritorio\examen\Logica\obj\Debug\netstandard2.0\Logica.pdb

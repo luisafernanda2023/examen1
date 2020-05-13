@@ -1,0 +1,8 @@
+C:\Users\marri\OneDrive\Escritorio\examen\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\marri\OneDrive\Escritorio\examen\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\marri\OneDrive\Escritorio\examen\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\marri\OneDrive\Escritorio\examen\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\marri\OneDrive\Escritorio\examen\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\marri\OneDrive\Escritorio\examen\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\marri\OneDrive\Escritorio\examen\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\marri\OneDrive\Escritorio\examen\Entity\obj\Debug\netstandard2.0\Entity.pdb
